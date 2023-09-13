@@ -19,7 +19,7 @@ const ItemThree = () => {
       <div className="border-t border-slate-700"></div>
       <div className="p-8 mx-3 mb-3 rounded-b-xl bg-slate-800">
         <div className="flex flex-col space-y-2 justify-center text-center font-light text-[0.75rem]">
-          <p>100GB storage</p>
+          <p>1TB storage</p>
           <p>Option to add members</p>
           <p>Extra member benefits</p>
         </div>

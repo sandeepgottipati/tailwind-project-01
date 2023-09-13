@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .card {
+    @apply .flex .flex-col rounded-lg shadow-lg bg-white md:flex-row;
+  }
+}

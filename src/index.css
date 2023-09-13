@@ -4,6 +4,6 @@
 
 @layer components {
   .card {
-    @apply .flex .flex-col rounded-lg shadow-lg bg-white md:flex-row;
+    @apply flex flex-col p-6 m-3 space-y-10 rounded-2xl shadow-2xl bg-white md:flex-row md:space-y-0 md:space-x-10 md:m-0 md:p-16;
   }
 }
